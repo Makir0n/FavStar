@@ -37,10 +37,10 @@ public class GetFav {
     /**
      * @param args the command line arguments
      */
-    static final String CONSUMER_KEY = "ePspaeeIwZsBmPE4jgzCH08UF";
-    static final String CONSUMER_SECRET = "Buvna9kKXIB1p3OvUrpVD5SMinyP4v5StFUi6nXzkMjccahHIB";
-    static final String ACCESS_TOKEN = "1445164536-aQHoQs0vigiKmDSq5JqZJqVRFrQOv7nFzMfOnkH";
-    static final String ACCESS_TOKEN_SECRET = "zTpCNUNNlNGTyKWQxLDlJlcMkVXs2x6bMTaM0maUEzOkR";
+    static final String CONSUMER_KEY = "your key";
+    static final String CONSUMER_SECRET = "your secret";
+    static final String ACCESS_TOKEN = "your token";
+    static final String ACCESS_TOKEN_SECRET = "your token secret";
     
     static public boolean FAV = false;
     
